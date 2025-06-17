@@ -1,1 +1,1 @@
-To make this project bu your own, checkout my detailed documentation published in hackster.io, here is the link :- https://www.hackster.io/rohitbhupalam/automatic-weather-based-wallpaper-change-system-02b65a
+To make this project by your own, checkout my detailed documentation published in hackster.io, here is the link :- https://www.hackster.io/rohitbhupalam/automatic-weather-based-wallpaper-change-system-02b65a
